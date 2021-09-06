@@ -13,7 +13,6 @@ import os
 import sys
 import cmd2
 import time
-import codecs
 import textwrap
 import subprocess
 
